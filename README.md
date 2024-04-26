@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tanvinanduu
+- 👋 Hi, I’m @tanvinanduu (Tanvi Dinesh Nandu)
 - 😄 Pronouns: she/her
 
 - 🌱 I’m currently pursuing my Graduate Degree in Applied Analytics at Columbia University
