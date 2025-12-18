@@ -2,7 +2,7 @@
 - 😄 Pronouns: she/her
 - 🌱 Masfter of Science in Applied Analytics at Columbia University
 - 🧩 Data analyst focused on practical analytics and decision making
-- 🐍📈 Python, Tableau, SQL, and data visualization for real business use cases
+- 🐍 Python, Tableau, SQL, and data visualization for real business use cases
 - 🧪 Clean logic, reproducible analysis, and thoughtful experimentation
 - 🎯 Using data to create impact beyond dashboards
 - 💞️ I’m looking to collaborate on interesting projects where I can challenge myself and influence growth
